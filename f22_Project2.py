@@ -5,7 +5,7 @@ import os
 import csv
 import unittest
 
-# Collaborated with: Dylan Shefman
+# Collaborated with: Dylan Shefman & Bobby Housel
 
 def get_listings_from_search_results(html_file):
     """
